@@ -1,0 +1,33 @@
+_repo: Among-the-River-Pirates-A-Skippy-Dare-Mystery-Story_53695
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fogel, Seymour
+    birthdate: 1911
+    deathdate: 1984
+    gutenberg_agent_id: '43773'
+    url: http://www.gutenberg.org/2009/agents/43773
+creator:
+  author:
+    agent_name: Lloyd, Hugh
+    gutenberg_agent_id: '43772'
+    url: http://www.gutenberg.org/2009/agents/43772
+description: ''
+gutenberg_issued: '2016-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Among the River Pirates
+
+  A Skippy Dare Mystery Story'
+url: http://www.gutenberg.org/ebooks/53695
