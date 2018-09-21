@@ -1,5 +1,5 @@
 _repo: Among-the-River-Pirates-A-Skippy-Dare-Mystery-Story_53695
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Fogel, Seymour
@@ -7,12 +7,17 @@ contributor:
     deathdate: 1984
     gutenberg_agent_id: '43773'
     url: http://www.gutenberg.org/2009/agents/43773
+covers:
+- cover_type: archival
+  image_path: 53695-h/images/icover.jpg
 creator:
   author:
     agent_name: Lloyd, Hugh
     gutenberg_agent_id: '43772'
     url: http://www.gutenberg.org/2009/agents/43772
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53695#Among-the-River-Pirates-A-Skippy-Dare-Mystery-Story
 gutenberg_issued: '2016-12-08'
 gutenberg_type: Text
 identifiers:
